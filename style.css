@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+
+html{
+    
+    background-color: rgb(192, 192, 249);
+    font-family: 'montserrat','serif';
+}
+
+img{
+    width: 20px;
+}
